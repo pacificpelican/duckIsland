@@ -2,10 +2,10 @@
 Theme Name: Duck Island
 Theme URI: http://djmcloud.danieljmckeown.com/duckisland/
 Description: A child theme of Green Lake
-template: greenLake
+template: Green Lake
 Author: Daniel J. McKeown
 Author URI: http://djmcloud.com
-Version: 0.2.2
+Version: 0.2.3
 Tags: responsive, pacificpelican.us, minimal, child theme
 . 
 This theme is a child theme from of Green Lake v0.2.2 (2015):
@@ -23,8 +23,5 @@ licensing info:
 .
 */
 
-@import url("../greenLake/style.css");
 
 @import url("../greenLake-master/style.css");
-
-@import url("../greenLake-1.0.0/style.css");

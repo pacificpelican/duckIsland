@@ -20,3 +20,8 @@ January 27, 2015
 v0.2.7
 January 27, 2015
 -top-level menu now better aligned as it is in the div #megacontainer
+
+v0.2.8
+January 27, 2015
+-sidebar now responsive; goes on left on large and medium screens and 
+	bottom on small screens using Foundation grid system

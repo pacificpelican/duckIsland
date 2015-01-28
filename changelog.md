@@ -30,3 +30,6 @@ v0.3.0
 January 27, 2015
 -sidebar now responsive on single.php; overlooked on v0.2.8
 
+v0.3.1
+January 27, 2015
+-site title area now a button: large secondary Foundation button

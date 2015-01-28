@@ -25,3 +25,8 @@ v0.2.8
 January 27, 2015
 -sidebar now responsive; goes on left on large and medium screens and 
 	bottom on small screens using Foundation grid system
+
+v0.3.0
+January 27, 2015
+-sidebar now responsive on single.php; overlooked on v0.2.8
+

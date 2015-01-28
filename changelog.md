@@ -7,3 +7,8 @@ January 27, 2015
 v0.2.4
 January 27, 2015
 -bugfix to get changes from v0.2.3 working
+
+v0.2.5
+January 27, 2015
+-get rid of blog description on index.php and single.php
+-header image support (first version)

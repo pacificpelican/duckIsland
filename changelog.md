@@ -16,3 +16,7 @@ January 27, 2015
 v0.2.6
 January 27, 2015
 -updated header image suggested size and default image
+
+v0.2.7
+January 27, 2015
+-top-level menu now better aligned as it is in the div #megacontainer

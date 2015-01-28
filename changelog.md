@@ -12,3 +12,7 @@ v0.2.5
 January 27, 2015
 -get rid of blog description on index.php and single.php
 -header image support (first version)
+
+v0.2.6
+January 27, 2015
+-updated header image suggested size and default image

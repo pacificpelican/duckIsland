@@ -33,3 +33,10 @@ January 27, 2015
 v0.3.1
 January 27, 2015
 -site title area now a button: large secondary Foundation button
+
+v0.4.0
+February 2, 2015
+-Duck Island is NO LONGER A CHILD THEME:
+	Green Lake code has been moved in-house
+
+

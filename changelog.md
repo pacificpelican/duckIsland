@@ -39,4 +39,7 @@ February 2, 2015
 -Duck Island is NO LONGER A CHILD THEME:
 	Green Lake code has been moved in-house
 
-
+v0.4.1
+February 24, 2015
+-new screenshot
+-updated readme.md

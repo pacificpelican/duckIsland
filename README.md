@@ -1,3 +1,5 @@
+**Duck Island** is a theme for WordPress which features a responsive top menu, a configurable header, and a responsive left sidebar.
+
 readme for [Duck Island theme](http://djmcloud.danieljmckeown.com/duckisland/) by [Dan McKeown](http://danmckeown.info):
 
 Duck Island is a fork of [Green Lake theme](http://djmcloud.danieljmckeown.com/greenlake/).

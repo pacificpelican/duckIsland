@@ -21,7 +21,7 @@
 <div class="supermegacontainer" id="containerzero">
 <div class="megacontainer" id="containerport">
 <nav id="site-navigation" class="main-navigation" role="navigation">
-			<button class="menu-toggle" aria-controls="menu" aria-expanded="false"><?php _e( 'Primary Menu', '_s' ); ?></button>
+			<button class="menu-toggle" aria-controls="menu" aria-expanded="false"><?php _e( '☰', '_s' ); ?></button>
 			<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
 		</nav><!-- #site-navigation -->
 

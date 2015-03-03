@@ -43,3 +43,8 @@ v0.4.1
 February 24, 2015
 -new screenshot
 -updated readme.md
+
+v0.4.2
+March 3, 2015
+-changed resposnive menu title from 'Primary Menu' to hamburger button '☰'
+
